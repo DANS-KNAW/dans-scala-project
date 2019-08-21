@@ -27,7 +27,7 @@
     </parent>
 
     <artifactId>dans-scala-project</artifactId>
-    <version>4.0.1-SNAPSHOT</version>
+    <version>4.0.0</version>
     <name>DANS Scala Project</name>
     <description>
         A bare bones Scala-based project. The best choice when creating a Scala based library.
